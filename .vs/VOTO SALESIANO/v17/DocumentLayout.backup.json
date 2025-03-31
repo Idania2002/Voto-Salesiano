@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THEPL\\source\\repos\\VOTO SALESIANO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74B391B8-077D-4814-8F50-D389C433B4EE}|VOTO SALESIANO.csproj|c:\\users\\thepl\\source\\repos\\voto salesiano\\views\\tb_usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74B391B8-077D-4814-8F50-D389C433B4EE}|VOTO SALESIANO.csproj|solutionrelative:views\\tb_usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B391B8-077D-4814-8F50-D389C433B4EE}|VOTO SALESIANO.csproj|c:\\users\\thepl\\source\\repos\\voto salesiano\\controllers\\tb_usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B391B8-077D-4814-8F50-D389C433B4EE}|VOTO SALESIANO.csproj|solutionrelative:controllers\\tb_usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B391B8-077D-4814-8F50-D389C433B4EE}|VOTO SALESIANO.csproj|c:\\users\\thepl\\source\\repos\\voto salesiano\\models\\modelo voto.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{74B391B8-077D-4814-8F50-D389C433B4EE}|VOTO SALESIANO.csproj|solutionrelative:models\\modelo voto.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\THEPL\\source\\repos\\VOTO SALESIANO\\Views\\TB_USUARIOS\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TB_USUARIOS\\Index.cshtml",
+              "ToolTip": "C:\\Users\\THEPL\\source\\repos\\VOTO SALESIANO\\Views\\TB_USUARIOS\\Index.cshtml",
+              "RelativeToolTip": "Views\\TB_USUARIOS\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T05:07:23.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TB_USUARIOSController.cs",
+              "DocumentMoniker": "C:\\Users\\THEPL\\source\\repos\\VOTO SALESIANO\\Controllers\\TB_USUARIOSController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TB_USUARIOSController.cs",
+              "ToolTip": "C:\\Users\\THEPL\\source\\repos\\VOTO SALESIANO\\Controllers\\TB_USUARIOSController.cs",
+              "RelativeToolTip": "Controllers\\TB_USUARIOSController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwHEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:04:51.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Modelo voto.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\THEPL\\source\\repos\\VOTO SALESIANO\\Models\\Modelo voto.edmx",
+              "RelativeDocumentMoniker": "Models\\Modelo voto.edmx",
+              "ToolTip": "C:\\Users\\THEPL\\source\\repos\\VOTO SALESIANO\\Models\\Modelo voto.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\Modelo voto.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-03-31T04:48:24.251Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

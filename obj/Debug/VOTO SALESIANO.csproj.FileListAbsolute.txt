@@ -1,0 +1,90 @@
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\VOTO SALESIANO.dll.config
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\VOTO SALESIANO.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\VOTO SALESIANO.pdb
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\csc.exe
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\csc.exe.config
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\csc.rsp
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\csi.exe
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\csi.exe.config
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\csi.rsp
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.AppContext.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Console.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.IO.Compression.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Net.Http.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Net.Sockets.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.ValueTuple.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Xml.XPath.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\vbc.exe
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\vbc.exe.config
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\vbc.rsp
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\VBCSCompiler.exe
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\Antlr3.Runtime.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\EntityFramework.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\EntityFramework.SqlServer.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\Newtonsoft.Json.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\System.Web.Helpers.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\System.Web.Mvc.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\System.Web.Optimization.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\System.Web.Razor.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\System.Web.WebPages.Deployment.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\System.Web.WebPages.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\System.Web.WebPages.Razor.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\WebGrease.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\EntityFramework.xml
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\EntityFramework.SqlServer.xml
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\System.Web.Helpers.xml
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\System.Web.Mvc.xml
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\System.Web.Optimization.xml
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\System.Web.Razor.xml
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\System.Web.WebPages.xml
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\System.Web.WebPages.Deployment.xml
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\System.Web.WebPages.Razor.xml
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\Newtonsoft.Json.xml
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\Antlr3.Runtime.pdb
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\es\System.Web.Helpers.resources.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\es\System.Web.Mvc.resources.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\es\System.Web.Optimization.resources.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\es\System.Web.Razor.resources.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\es\System.Web.WebPages.resources.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\obj\Debug\VOTO SALESIANO.csproj.AssemblyReference.cache
+C:\Users\THEPL\source\repos\VOTO SALESIANO\obj\Debug\VOTO SALESIANO.csproj.CoreCompileInputs.cache
+C:\Users\THEPL\source\repos\VOTO SALESIANO\obj\Debug\VOTO SAL.4CBE482C.Up2Date
+C:\Users\THEPL\source\repos\VOTO SALESIANO\obj\Debug\VOTO SALESIANO.dll
+C:\Users\THEPL\source\repos\VOTO SALESIANO\obj\Debug\VOTO SALESIANO.pdb

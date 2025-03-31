@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB_VOTACIONModelStoreContainer" CdmEntityContainer="DB_VOTACIONEntities">
+    <EntitySetMapping Name="TB_USUARIOS">
+      <EntityTypeMapping TypeName="DB_VOTACIONModel.TB_USUARIOS">
+        <MappingFragment StoreEntitySet="TB_USUARIOS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NOMBRE" ColumnName="NOMBRE" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+          <ScalarProperty Name="GRADO" ColumnName="GRADO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
